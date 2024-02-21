@@ -1,7 +1,7 @@
 {
   "entryAssembly": "WebGame",
   "resources": {
-    "hash": "sha256-oduNexy2Ch6SLIUdVWzlCNEZFPIEEKhX6hU9g+mgAV4=",
+    "hash": "sha256-QFJF/yfy9CGiYz1Cl8pfz7mdmdsdy8saBXGqoRkVeqw=",
     "runtime": {
       "dotnet.6.0.26.ykf37avxhh.js": "sha256-8nvVUrwdGMr3cXu/2E7JfzQ6gHz/ryV3zx2AyCG9pTk=",
       "dotnet.wasm": "sha256-JPpnX16d3VbheUZILsQVjxSVlBvs95al6Ol6j7o88qI=",
@@ -76,7 +76,7 @@
       "System.Xml.Linq.dll": "sha256-sQrbIZgGBru4wzm7qWSvFqs/utrZZPhWlrZ+9v6E/dM=",
       "System.Xml.ReaderWriter.dll": "sha256-H9krtwtXSWVDnOsTA8saVZO5t55ysUIBwq8C8S7cvXs=",
       "System.Xml.XDocument.dll": "sha256-CuQlBKIJNS80X3ecNWm/+3kuCyvhsbcpCN2EfUqRT0k=",
-      "WebGame.dll": "sha256-2siNPfJSl2Gowhv5jDEdC+BkC2bsmRYrFuxZu0KkEGQ=",
+      "WebGame.dll": "sha256-yWhcjISQIz9lxb0pQQhYRIM+0PjvT+9FT5D2qN/xIi4=",
       "Xna.Framework.dll": "sha256-vzxH890K422zVcC4NhgG9bh92XZuBgC1hm5KjJJ4liI="
     },
     "runtimeAssets": {
