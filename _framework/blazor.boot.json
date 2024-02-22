@@ -1,7 +1,7 @@
 {
   "entryAssembly": "WebGame",
   "resources": {
-    "hash": "sha256-ZuJI8xnyjzXJtj7FGnCAf/7uKYM2ao7EOBiyI3ypAWQ=",
+    "hash": "sha256-Gd6A3g+Cp8aaYo8MNjxn55/a2xWPu+KXX76Nab6wJcc=",
     "runtime": {
       "dotnet.6.0.26.ykf37avxhh.js": "sha256-8nvVUrwdGMr3cXu/2E7JfzQ6gHz/ryV3zx2AyCG9pTk=",
       "dotnet.wasm": "sha256-JPpnX16d3VbheUZILsQVjxSVlBvs95al6Ol6j7o88qI=",
@@ -45,7 +45,7 @@
       "System.dll": "sha256-JZSUoVWso1y8tWo0m+xCRHo2634TrRXoN5Bvq3lZQEI=",
       "System.Drawing.dll": "sha256-bwl7uaF1WNQdOQuHAswcjE/nXnx9Jv6oYq+SIgLL0RM=",
       "System.Drawing.Primitives.dll": "sha256-Nmo5QJZgPjAsZMIFBpshP8zEDV0p++eVw5A7G1ROwnM=",
-      "System.Linq.dll": "sha256-/PzRz0jPrSm1OXLYRPePbzdqNf0TbCXCAv14PUD/KWc=",
+      "System.Linq.dll": "sha256-00a8rWVHOSBlwnloDhxUP7U9A69xl+UMQ3Gku27ldD0=",
       "System.Linq.Expressions.dll": "sha256-BscuMC0a9sFiQeOmfDtzYDB4wTBFQSd2zAyUUnjcODA=",
       "System.Memory.dll": "sha256-cxwaK1++vHzIoFpIzZM+avPeG35RinIRA+H3Ao3PeqQ=",
       "System.Net.Http.dll": "sha256-p3EFkLB0iXjBO9MpmksB8ilJ4T3PeFHnrinHyMMzGKA=",
@@ -60,7 +60,7 @@
       "System.Reflection.Emit.Lightweight.dll": "sha256-7MWqfumbPhB3UEgAT4nz/xCOxzKsK5Pa9HkE8Hh7NKI=",
       "System.Reflection.Primitives.dll": "sha256-wV3dc4GsKLGD6ooRlgLdUfiMuJD1+7OVcXzRJUGKvQ0=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-w4z5pfAvopYG3OzFKWsDmTF53EpHsyKIwA690Ahyn2o=",
-      "System.Runtime.dll": "sha256-osNt5gzQ7jbMJ6odVFpaXsCJelMS4ovzyfluasiBHqY=",
+      "System.Runtime.dll": "sha256-8cTYFLKn61hd9ru3PtUuzhkGG/MTFXEl3+0ZI9nufdQ=",
       "System.Runtime.InteropServices.dll": "sha256-9yfBAEMET/THDFbLc5niZ73pHIBzs35HAaSG1PrzxKg=",
       "System.Runtime.Numerics.dll": "sha256-cwBsZrGNDz2sNdtajLzbohp2quvI9y3BT9Z0wB1kkxs=",
       "System.Runtime.Serialization.Formatters.dll": "sha256-ccGmkWKOP98tHCJgURg3gsz79uAY/hTLi1kJ20b+flc=",
@@ -76,7 +76,7 @@
       "System.Xml.Linq.dll": "sha256-sQrbIZgGBru4wzm7qWSvFqs/utrZZPhWlrZ+9v6E/dM=",
       "System.Xml.ReaderWriter.dll": "sha256-H9krtwtXSWVDnOsTA8saVZO5t55ysUIBwq8C8S7cvXs=",
       "System.Xml.XDocument.dll": "sha256-CuQlBKIJNS80X3ecNWm/+3kuCyvhsbcpCN2EfUqRT0k=",
-      "WebGame.dll": "sha256-C5ZhASTW76T0S/1fI8bAg6WSAt+kQk1NQLTg7jKzL/g=",
+      "WebGame.dll": "sha256-ptrXd0ZtCbCvM94kma9j6rMJP4ohxHpQPloJF3aSS+4=",
       "Xna.Framework.dll": "sha256-vzxH890K422zVcC4NhgG9bh92XZuBgC1hm5KjJJ4liI="
     },
     "runtimeAssets": {
